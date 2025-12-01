@@ -1,12 +1,22 @@
-# ADHD Research
+## 🔍 Current Research Status
+The ADHD research is organized into focused documents:
 
-## Objective
-Understand ADHD challenges, symptoms, and user needs to inform app design.
+### **Completed:**
+✅ **[What is ADHD?](adhd_research/README.md)** - Comprehensive overview with scientific basis  
+✅ **[ADHD Types & Profiles](adhd_research/adhd_types_profiles.md)** - DSM types and personality temperaments
 
-## Topics to Research:
-- ADHD symptoms and daily challenges
-- Time management techniques that work for ADHD
-- Organizational methods
-- Existing coping strategies
+### **In Progress:**
+🔄 **[Daily Challenges](adhd_research/daily_challenges.md)** - Real-world difficulties faced by people with ADHD
+
+### **Up Next:**
+- Time management techniques for ADHD
+- Organizational methods that work
+- Existing coping strategies analysis
 - User pain points and frustrations
 - Accessibility considerations
+
+## 🚦 Next Steps for Research Team
+1. Complete the Daily Challenges document
+2. Begin Time Management research
+3. Start gathering user stories from ADHD communities
+4. Analyze existing ADHD apps in the market
