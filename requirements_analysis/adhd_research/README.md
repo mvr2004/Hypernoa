@@ -2,8 +2,8 @@
 The ADHD research is organized into focused documents:
 
 ### **Completed:**
-✅ **[What is ADHD?](./README.md)** - Comprehensive overview with scientific basis  
-✅ **[ADHD Types & Profiles](./adhd_types_profiles.md)** - DSM types and personality temperaments
+✅ **[What is ADHD?](./1_what_is_adhd.md)** - Comprehensive overview with scientific basis  
+✅ **[ADHD Types & Profiles](./2_types_of_adhd.md)** - DSM types and personality temperaments
 
 ### **In Progress:**
 🔄 **[Daily Challenges](./daily_challenges.md)** - Real-world difficulties faced by people with ADHD
