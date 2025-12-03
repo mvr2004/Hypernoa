@@ -157,3 +157,7 @@ Document effective strategies, techniques, and workarounds that people with ADHD
 
 ---
 *Note: Effective strategies vary by individual. The most important factor is finding what works for each person's specific ADHD presentation and life context.*
+
+---
+
+**🔙 [Back to Top](#)**

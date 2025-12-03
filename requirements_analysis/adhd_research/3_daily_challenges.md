@@ -156,3 +156,7 @@ Document the real-world daily struggles and challenges faced by people with ADHD
 
 ---
 *This document is based on lived experiences and clinical observations. Individual experiences vary, but these patterns are commonly reported.*
+
+---
+
+**🔙 [Back to Top](#)**

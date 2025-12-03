@@ -93,3 +93,7 @@
 
 ---
 *Analysis based on app store reviews, Reddit discussions, and personal testing.*
+
+---
+
+**🔙 [Back to Top](#)**

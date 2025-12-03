@@ -152,3 +152,7 @@ ADHD rarely exists alone:
 
 ### 🎬 Recommended Videos
 **[These 3 Types of ADHD are overlooked in adults! ](https://www.youtube.com/watch?v=4JqswmelblQ)** 
+
+---
+
+**🔙 [Back to Top](#)**
