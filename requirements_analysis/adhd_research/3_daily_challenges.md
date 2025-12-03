@@ -159,4 +159,4 @@ Document the real-world daily struggles and challenges faced by people with ADHD
 
 ---
 
-**🔙 [Back to Top](#)**
+🔝 [Back to Top](#3_daily_challenges)

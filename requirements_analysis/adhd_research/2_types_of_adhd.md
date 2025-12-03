@@ -155,4 +155,4 @@ ADHD rarely exists alone:
 
 ---
 
-**🔙 [Back to Top](#)**
+🔝 [Back to Top](#2_types_of_ahdh)

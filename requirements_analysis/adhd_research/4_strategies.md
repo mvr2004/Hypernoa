@@ -160,4 +160,4 @@ Document effective strategies, techniques, and workarounds that people with ADHD
 
 ---
 
-**🔙 [Back to Top](#)**
+🔝 [Back to Top](#4_strategies)
