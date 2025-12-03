@@ -1,19 +1,16 @@
-## 🔍 Current Research Status
-The ADHD research is organized into focused documents:
+---
 
-### **Completed:**
-✅ **[What is ADHD?](./1_what_is_adhd.md)** - Comprehensive overview with scientific basis  
-✅ **[ADHD Types & Profiles](./2_types_of_adhd.md)** - DSM types and personality temperaments  
-✅ **[Daily Challenges](./3_daily_challenges.md)** - Real-world difficulties faced by people with ADHD
+# 📚 ADHD Research Hub
 
+## 🔍 Navigation
 
-### **In Progress:**
-🔄 **[Coping Strategies]** - Existing methods that work for ADHD
+- [What is ADHD?](./1_what_is_adhd.md) - Scientific basis and characteristics
+- [ADHD Types & Profiles](./2_types_of_adhd.md) - DSM types and real-world profiles
+- [Daily Challenges](./3_daily_challenges.md) - Practical life difficulties
+- [Coping Strategies](./4_strategies.md) - Strategies about ADHD
+- [Existing Apps Analysis](./5_existing_apps.md) - Competition and market apps
 
+---
 
-### **Up Next:**
-- Time management techniques for ADHD
-- Organizational methods that work
-- Existing coping strategies analysis
-- User pain points and frustrations
-- Accessibility considerations
+**🔙 [Back to Top](#)**
+
