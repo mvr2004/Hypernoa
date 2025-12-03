@@ -1,5 +1,3 @@
----
-
 # 📚 ADHD Research Hub
 
 ## 🔍 Navigation
