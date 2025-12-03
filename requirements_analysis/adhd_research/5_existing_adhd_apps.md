@@ -1,3 +1,6 @@
+🔙 [Back to ADHD Research Overview](./README.md)
+
+
 # Existing ADHD Apps Analysis
 
 ## Popular Apps & What We Can Learn:
@@ -90,4 +93,3 @@
 
 ---
 *Analysis based on app store reviews, Reddit discussions, and personal testing.*
-*Last updated: $(date +%Y-%m-%d)*
