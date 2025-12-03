@@ -7,7 +7,8 @@ The ADHD research is organized into focused documents:
 ✅ **[Daily Challenges](./3_daily_challenges.md)** - Real-world difficulties faced by people with ADHD
 
 ### **In Progress:**
-🔄 **[Daily Challenges](./4_strategies.md)** - 
+🔄 **[Daily Challenges](./4_strategies.md)**
+
 
 ### **Up Next:**
 - Time management techniques for ADHD
