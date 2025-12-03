@@ -1,6 +1,5 @@
 🔙 [Back to ADHD Research Overview](./README.md)
 
-
 # Existing ADHD Apps Analysis
 
 ## Popular Apps & What We Can Learn:
@@ -96,4 +95,5 @@
 
 ---
 
-🔝 [Back to Top](#adhd-apps-analysis)
+
+🔝 [Back to Top](#existing-adhd-apps-analysis)
