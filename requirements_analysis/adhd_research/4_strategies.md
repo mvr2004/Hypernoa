@@ -1,4 +1,4 @@
-# ADHD Coping Strategies & Techniques
+# ADHD Strategies & Techniques
 
 🔙 [Back to ADHD Research Overview](./README.md)
 
@@ -160,4 +160,4 @@ Document effective strategies, techniques, and workarounds that people with ADHD
 
 ---
 
-🔝 [Back to Top](#4_strategies)
+🔝 [Back to Top](#adhd-strategies--techniques)

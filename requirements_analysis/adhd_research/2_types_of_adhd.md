@@ -155,4 +155,5 @@ ADHD rarely exists alone:
 
 ---
 
-🔝 [Back to Top](#2_types_of_ahdh)
+🔝 [Back to Top](#adhd-types--profiles---understanding-the-variations)
+
