@@ -1,4 +1,4 @@
-🔙 [Back to ADHD Research Overview](./README.md)
+🔙 [Back](./README.md)
 
 # ADHD Types & Profiles - Understanding the Variations
 
