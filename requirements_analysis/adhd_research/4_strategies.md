@@ -1,6 +1,6 @@
 # ADHD Strategies & Techniques
 
-🔙 [Back to ADHD Research Overview](./README.md)
+🔙 [Back](./README.md)
 
 ## 🎯 Objective
 Document effective strategies, techniques, and workarounds that people with ADHD use to manage daily challenges. This informs what features to include (or avoid) in our app.
