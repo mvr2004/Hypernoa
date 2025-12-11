@@ -1,6 +1,6 @@
 # ADHD Usage Scenarios
 
-🔙 [Back to ADHD Personas](./adhd_personas.md)
+🔙 [Back](./README.md)
 
 ## 📋 Overview
 Real-world scenarios showing how each persona would interact with our app in their daily lives. Based on the 10 personas created.

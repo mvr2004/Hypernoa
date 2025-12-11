@@ -1,6 +1,6 @@
 # Daily Challenges for People with ADHD
 
-🔙 [Back to ADHD Research Overview](./README.md)
+🔙 [Back](./README.md)
 
 ## 🎯 Objective
 Document the real-world daily struggles and challenges faced by people with ADHD to inform empathetic and effective app design.
