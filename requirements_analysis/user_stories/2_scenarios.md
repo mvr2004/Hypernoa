@@ -238,3 +238,5 @@ Real-world scenarios showing how each persona would interact with our app in the
 - **Cross-device sync** (All personas)
 - **Privacy controls** (Family sharing)
 - **Accessibility** (Robert, Carlos)
+
+🔝 [Back to Top](#adhd-usage-scenarios)
