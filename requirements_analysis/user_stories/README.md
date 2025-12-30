@@ -7,5 +7,4 @@
 - [UserStories](./3_userstories.md) 
 ---
 
-**🔙 [Back to Top](#)**
 
